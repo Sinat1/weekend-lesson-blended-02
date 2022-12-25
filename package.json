@@ -1,0 +1,29 @@
+{
+  "name": "weekend-lesson-blended-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinat1/weekend-lesson-blended-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinat1/weekend-lesson-blended-02/issues"
+  },
+  "homepage": "https://github.com/Sinat1/weekend-lesson-blended-02#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+
+    "chalk": "4.0.0"
+  }
+}
